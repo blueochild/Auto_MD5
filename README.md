@@ -18,6 +18,6 @@ BCD파일 BCDMD5
    
 DownloadLink.txt 예시
 
-www.DownloadLink1
+www.DownloadLink1   
 http://www.downloadLink2
 
